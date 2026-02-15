@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on building tech products.<br>I’m interested in identifying common problems students face and creating solutions for them.<br>I’m currently learning Machine Learning and Artificial Intelligence.<br>Feel free to ask me about Python, Machine Learning, and LLMs.<br>Fun fact: I can make you laugh 😄
+I’m looking to collaborate on building Tech products.<br>I’m interested in identifying common problems students face and creating solutions for them.<br>I’m currently learning Machine Learning and Artificial Intelligence.<br>Feel free to ask me about Python, Machine Learning, and LLMs.<br>Fun fact: I can make you laugh 😄
 
 
 ## 🌐 Socials:
