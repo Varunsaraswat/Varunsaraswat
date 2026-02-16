@@ -14,6 +14,8 @@ I’m looking to collaborate on building Tech products.<br>I’m interested in i
 ![](https://nirzak-streak-stats.vercel.app/?user=Varunsaraswat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunsaraswat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=Varunsaraswat&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Varunsaraswat&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
